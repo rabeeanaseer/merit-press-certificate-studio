@@ -1,0 +1,11 @@
+merit/press Hostinger bundle
+
+1. Upload the contents of this folder to a Hostinger Node.js application.
+2. Set the application root to this folder.
+3. Set the startup file to dist/index.mjs, or use: npm start
+4. Set NODE_ENV=production and choose the Node.js version provided by your Hostinger plan.
+5. Run npm install in this folder.
+6. Start/restart the Node.js application.
+
+The app serves the website from ./public and the API from /api.
+SMTP credentials are entered by each academy in the app and kept only in temporary server memory.

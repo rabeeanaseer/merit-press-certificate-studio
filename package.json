@@ -1,0 +1,12 @@
+{
+  "name": "merit-press-hostinger",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node --enable-source-maps dist/index.mjs"
+  },
+  "dependencies": {
+    "@swc/helpers": "^0.5.23",
+    "nodemailer": "^7.0.3"
+  }
+}
