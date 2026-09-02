@@ -4,35 +4,6 @@ Production-ready Hostinger Node.js bundle for merit/press Certificate Studio.
 
 This repository contains the compiled application only. It is designed to be connected to a Hostinger Node.js application.
 
-## GitHub repository details
-
-### Suggested repository name
-
-```text
-merit-press-hostinger
-```
-
-### Suggested description
-
-```text
-Production-ready Hostinger Node.js deployment bundle for merit/press Certificate Studio.
-```
-
-### Suggested GitHub topics
-
-```text
-hostinger
-nodejs
-certificate-generator
-certificate-maker
-academy-tools
-education
-pdf-generation
-email-automation
-smtp
-nodemailer
-```
-
 ## Repository contents
 
 The repository must have this structure at its root:
